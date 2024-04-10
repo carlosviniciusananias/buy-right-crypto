@@ -2,15 +2,6 @@
 
 Este repositório foi criado para estudar websockets e monitoramento de preços em binance.
 
-## Dependências
-
-- Node.js
-- TypeScript
-- Express
-- WebSocket
-- Binance API
-- Nodemon
-
 ## Configuração
 
 1. Clone o repositório:
@@ -53,6 +44,15 @@ O servidor expõe as seguintes rotas:
 - `/`
 - `/monitoring`
 - `trade`
+
+## Dependências
+
+- Node.js
+- TypeScript
+- Express
+- WebSocket
+- Binance API
+- Nodemon
 
 ## Contribuindo
 
