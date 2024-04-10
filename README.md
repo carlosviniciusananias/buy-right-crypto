@@ -7,15 +7,14 @@ Este repositório foi criado para estudar websockets e monitoramento de preços 
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/bitcoin-price-trading.git
+git clone https://github.com/carlosviniciusananias/buyright-crypto.git
 ```
 
 2. Instale as dependências:
 
 ```bash
-Copy code
-cd bitcoin-price-trading
-npm install
+cd buyright-crypto
+yarn install
 ```
 
 3. Configure as variáveis de ambiente:
@@ -32,7 +31,7 @@ Substitua `YOUR_KEY` e `YOUR_SECRET_KEY` pelas suas credenciais da API da binanc
 4. Inicie o servidor:
 
 ```bash
-npm start
+yarn start
 ```
 
 O servidor será iniciado em http://localhost:3000.
