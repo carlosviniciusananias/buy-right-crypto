@@ -56,9 +56,3 @@ O servidor expõe as seguintes rotas:
 ## Contribuindo
 
 Sinta-se à vontade para enviar pull requests e relatar problemas.
-
-## Licença
-
-Este projeto está licenciado sob a MIT License. Consulte o arquivo LICENSE para obter mais detalhes.
-
-
