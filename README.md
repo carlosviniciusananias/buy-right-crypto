@@ -46,12 +46,11 @@ O servidor expõe as seguintes rotas:
 
 ## Dependências
 
-- Node.js
-- TypeScript
+- Node
 - Express
-- WebSocket
-- Binance API
 - Nodemon
+- WebSocket
+- TypeScript
 
 ## Contribuindo
 
