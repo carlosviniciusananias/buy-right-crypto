@@ -1,0 +1,24 @@
+{
+  "name": "buyright-crypto",
+  "version": "1.0.0",
+  "description": "This repository was created to study websockets and price monitoring on binance",
+  "main": "index.js",
+  "author": "carlosviniciusananias <carlos.oliveira69@fatec.sp.gov.br>",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon src/server.ts",
+    "build": "tsc"
+  },
+  "dependencies": {
+    "@types/node": "^20.12.7",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "ws": "^8.16.0"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.21",
+    "nodemon": "^3.1.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.4"
+  }
+}
